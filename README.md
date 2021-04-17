@@ -1,2 +1,1 @@
-# ecoode.github.io
-sample website 
+TinDog Starting Files
